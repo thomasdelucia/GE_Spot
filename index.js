@@ -1,4 +1,5 @@
-
+// Thomas moi je bosserai plus desoler mais je continuerai chez moi 
+// car moi j'accepte pas de bosser alors que la prof me traite comme ça
 let map, infoWindow;
 
 function initMap() {
