@@ -1,6 +1,7 @@
 #map {
-    height: 95%;
+    height: 94%;
     width: 100%;
+    border: solid black;
   }
   h3{
     font-family: Arial, Helvetica, sans-serif;
@@ -11,4 +12,8 @@
   }
   body{
     background-color: rgb(223, 223, 155);
+  }
+
+  aside{
+    border: solid black;
   }
