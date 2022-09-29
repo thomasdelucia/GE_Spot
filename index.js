@@ -3,8 +3,8 @@ let map, infoWindow;
 
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 46.1951469, lng: 6.1057306 },
-    zoom: 15,
+    center: { lat: 46.204391, lng: 6.143158 },
+    zoom: 10,
   });
   infoWindow = new google.maps.InfoWindow();
 
