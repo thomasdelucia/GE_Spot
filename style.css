@@ -1,7 +1,8 @@
 #map {
-  height: 1618px;
+  height: 500px;
   width: 1618px;
   border: solid black;
+  margin: 10px;
 }
 
 main{
@@ -21,6 +22,6 @@ body {
   background-color: rgb(223, 223, 155);
 }
 
-aside {
+aside { 
   border: solid black;
 }

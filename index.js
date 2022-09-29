@@ -28,7 +28,7 @@ function initMap() {
           infoWindow.open(map);
           map.setCenter(pos);
         },
-        () => {
+        () => { 
           handleLocationError(true, infoWindow, map.getCenter());
         }
       );
@@ -50,3 +50,4 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
 }
 
 window.initMap = initMap;
+
